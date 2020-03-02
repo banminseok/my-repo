@@ -1,3 +1,5 @@
 git add init.txt
 git commit
 
+git commit -m "work n차"
+git commit -am "work n차"
