@@ -7,3 +7,7 @@ git commit -am "work n차"
 git log
 git log --stat --oneline --graph
 git status
+
+
+git remote add origin https://github.com/banminseok/my-repo.git
+
