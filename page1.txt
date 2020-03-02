@@ -3,3 +3,7 @@ git commit
 
 git commit -m "work n차"
 git commit -am "work n차"
+
+git log
+git log --stat --oneline --graph
+git status
